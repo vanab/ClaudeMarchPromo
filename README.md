@@ -4,6 +4,8 @@ A lightweight macOS menu bar app that tracks Anthropic's **Claude March 2026 x2 
 
 > **Official announcement:** [Claude March 2026 Usage Promotion](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion)
 
+> **Note:** The promotion has ended on March 27, 2026. The app now displays a "promo ended" screen.
+
 ## Promotion Schedule
 
 **Dates:** March 13 – 27, 2026
